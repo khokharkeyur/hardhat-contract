@@ -1,0 +1,10 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Hardhat files
+cache/
+artifacts/
+
+# Environment variables
+.env
