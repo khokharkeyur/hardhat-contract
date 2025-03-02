@@ -7,4 +7,4 @@ cache/
 artifacts/
 
 # Environment variables
-.env
+config.bat
